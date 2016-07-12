@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ℵ</string>
+	<key>name</key>
+	<string>aleph</string>
+	<key>scope</key>
+	<string>source.julia</string>
+	<key>tabTrigger</key>
+	<string>\aleph</string>
+	<key>uuid</key>
+	<string>0C55DABB-4D7E-424C-AA48-ECF36C50DF89</string>
+</dict>
+</plist>
