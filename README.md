@@ -20,7 +20,7 @@ To install, just clone this repo into
 
 For example:
 
-    mkdir -p "$HOME/Library/Application Support/Avian/Bundles &&
+    mkdir -p "$HOME/Library/Application Support/Avian/Bundles" &&
         git clone https://github.com/anowacki/JuliaUnicode.tmbundle "$HOME/Library/Application Support/Avian/Bundles/JuliaUnicode.tmbundle"
 
 ## Licence
