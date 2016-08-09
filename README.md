@@ -13,6 +13,8 @@ Almost all the symbols supported by the REPL are supported in TextMate.  Whether
 or not you actually see the symbol of course depends on the Unicode support of
 the display font you’re using.
 
+![demo](doc/JuliaUnicode_example.gif)
+
 ## Install
 
 To install, just clone this repo into
